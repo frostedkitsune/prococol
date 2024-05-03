@@ -1,0 +1,29 @@
+#Nav-Bar{
+    height: 80px;
+    width: 100%;
+    background-color: antiquewhite;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Nav-logo-section{
+    height: 80px;
+    width: 80px;
+    background-color: rgb(65, 119, 107);
+}
+
+.Nav-appearance-section{
+    height: 80px;
+    width: 400px;
+    background-color: rgb(73, 98, 134);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Nav-appearance-childs{
+    height: 70px;
+    width: 120px;
+    background-color: aqua;
+}
